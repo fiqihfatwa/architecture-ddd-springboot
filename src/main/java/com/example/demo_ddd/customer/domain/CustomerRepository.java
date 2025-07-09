@@ -1,7 +1,5 @@
 package com.example.demo_ddd.customer.domain;
 
-import com.example.demo_ddd.customer.domain.Customer;
-
 import java.util.Optional;
 
 public interface CustomerRepository {
